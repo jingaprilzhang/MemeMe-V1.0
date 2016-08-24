@@ -1,5 +1,5 @@
 # MemeMe-V1.0
-Udacity iOS NanoDegree Project 2 V1.0
+Udacity iOS Developer Nanodegree Project 2 V1.0
 
 Created an app that enables a user to take a picture or choose from a photo album, and add text at the top and bottom to form a meme. The user will be able to share the photo on Facebook and Twitter and also by SMS or email. Memes will appear in a tab view with two tabs: a table view and a collection view.
 
